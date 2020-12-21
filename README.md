@@ -67,7 +67,7 @@ python servise_server.py
 ```
 python servise_client.py  1 5
 ```
-この例では，関するの引数`a`と`b`にそれぞれ，1と5が渡され，`servise_server.py`上の関するが実行されます．
+この例では，関数の引数`a`と`b`にそれぞれ，1と5が渡され，`servise_server.py`上の関するが実行されます．
 
 
 
